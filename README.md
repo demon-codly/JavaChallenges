@@ -84,4 +84,24 @@ This repo will serve as a learning journey as well as a reference for anyone sta
 ## 💻 How to Run
 1. Clone the repo:
    ```bash
-   git clone https://github.com/<your-username>/<repo-name>.git
+   git clone https://github.com/demon-codly/JavaChallenges.git
+2. Open in **IntelliJ IDEA** (or any Java IDE).  
+3. Run the `.java` file you want to test.  
+
+---
+
+## 🤝 Contributing
+Got suggestions or improvements?  
+Feel free to **fork** this repo and open a **pull request**.  
+
+---
+
+## ⭐ Support
+If you like this project, give it a **star ⭐** on GitHub!  
+
+---
+
+## 👨‍💻 Author
+**Your Name Here**  
+📧 Contact: [littlecodly@gmail.com]
+🌐 GitHub: [https://github.com/demon-codly]
