@@ -71,7 +71,7 @@ This repo will serve as a learning journey as well as a reference for anyone sta
 34. Check whether a number is **Prime**  
 35. Reverse the digits of a number  
 36. Print the **Fibonacci Series** up to N  
-
+37. Check the **ArmStrong Number** for given number
 ---
 
 ## 🎯 Future Goals
