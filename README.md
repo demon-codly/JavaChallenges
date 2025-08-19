@@ -102,6 +102,6 @@ If you like this project, give it a **star ⭐** on GitHub!
 ---
 
 ## 👨‍💻 Author
-**Your Name Here**  
-📧 Contact: [littlecodly@gmail.com]
-🌐 GitHub: [https://github.com/demon-codly]
+**Sushanth**  
+📧 Contact: [EMAIL ID](littlecodly@gmail.com)
+🌐 GitHub: [@DEMON-CODLY](https://github.com/demon-codly)
