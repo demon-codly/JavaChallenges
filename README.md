@@ -78,6 +78,8 @@ This repo will serve as a learning journey as well as a reference for anyone sta
    - Reverse Right Half Pyramid  
    - Left Half Pyramid
 
+---
+
 ### 💾 Array Manipulation & Algorithms
 40. Find the sum and average of all elements in an array.
 41. Find number of occurrences of an element in an array.
