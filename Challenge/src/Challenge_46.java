@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class Challenge_46_Cleaned {
+public class Challenge_46 {
 
     public static void main(String[] args) {
         // Define an array to test.
