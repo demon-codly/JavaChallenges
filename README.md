@@ -77,10 +77,23 @@ This repo will serve as a learning journey as well as a reference for anyone sta
    - Right Half Pyramid  
    - Reverse Right Half Pyramid  
    - Left Half Pyramid
+
 ---
 
-## 🎯 Future Goals
-- 🔜 Arrays and Strings problems  
+### 💾 Array Manipulation & Algorithms
+40. Find the sum and average of all elements in an array.
+41. Find number of occurrences of an element in an array.
+42. Find the maximum and minimum element in an array.
+43. Check if the given array is sorted.
+44. Return a new array deleting a specific element.
+45. Reverse an array.
+46. Check is the array is palindrome or not.
+47. merge two sorted arrays.
+48. Search an element in a 2-D array.
+
+---
+
+## 🎯 Future Goals 
 - 🔜 Object-Oriented Programming (OOPs) concepts  
 - 🔜 Advanced problem solving (Recursion, Backtracking, etc.)  
 
