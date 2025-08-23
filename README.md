@@ -93,8 +93,7 @@ This repo will serve as a learning journey as well as a reference for anyone sta
 
 ---
 
-## 🎯 Future Goals
-- 🔜 Arrays and Strings problems  
+## 🎯 Future Goals 
 - 🔜 Object-Oriented Programming (OOPs) concepts  
 - 🔜 Advanced problem solving (Recursion, Backtracking, etc.)  
 
