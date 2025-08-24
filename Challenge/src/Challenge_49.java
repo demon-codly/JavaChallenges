@@ -1,3 +1,5 @@
+//49. Create a program to do sum and average of all elements in a 2-D array.
+
 import java.util.Random;
 import java.util.Arrays;
 

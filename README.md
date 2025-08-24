@@ -90,6 +90,8 @@ This repo will serve as a learning journey as well as a reference for anyone sta
 46. Check is the array is palindrome or not.
 47. merge two sorted arrays.
 48. Search an element in a 2-D array.
+49. sum and average of all elements in a 2-D array.
+50. find the sum of two diagonal elements..
 
 ---
 
